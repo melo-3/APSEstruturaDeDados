@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\APS\APS\bin\Debug\APS.exe.config
+C:\Users\Aluno\source\repos\APS\APS\bin\Debug\APS.exe
+C:\Users\Aluno\source\repos\APS\APS\bin\Debug\APS.pdb
+C:\Users\Aluno\source\repos\APS\APS\obj\Debug\APS.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\APS\APS\obj\Debug\APS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\APS\APS\obj\Debug\APS.exe
+C:\Users\Aluno\source\repos\APS\APS\obj\Debug\APS.pdb
